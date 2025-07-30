@@ -1,12 +1,16 @@
 BSD 2-Clause License
 
-Copyright (c) 2025, UnderLabPC
+Copyright (c) 2025, UnderLabPC <https://github.com/UnderLabPC>
+Contributors:
+- KF-NW         <https://github.com/KF-NW>
+- BloggerAnks   <https://github.com/BloggerAnks>
+- TheFrieLancr  <https://github.com/TheFrielancr>
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+1. Redistributions of source code must retain the above copyright notice,
+   this list of conditions and the following disclaimer.
 
 2. Redistributions in binary form must reproduce the above copyright notice,
    this list of conditions and the following disclaimer in the documentation
@@ -22,3 +26,14 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+---
+### PERNYATAAN ORGANISASI
+UnderLabPC adalah nama samaran untuk kolektif pengembang independen,
+bukan entitas hukum terdaftar.
+Kontak resmi: weblogger.ankshana@gmail.com
+
+### DOKUMENTASI
+Tutorial dan dokumentasi lengkap:
+- https://github.com/UnderLabPC
+- https://github.com/UnderLabPC/repo/wiki
