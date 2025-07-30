@@ -6,7 +6,7 @@
  ** kompatibilitas browser modern (Chrome, Firefox, Safari, Edge).
  *
  *  by KangFirm NoteWork, https://kangfirm.info/
- ** License: X11/MIT
+ ** License: BSD 2-Clause License
  *    see https://github.com/UnderLabPC/ULPCookies/blob/master/LICENSE
  */ var modFiles = 'ULPCookies.js';
 var modNames = 'ULPCookies';
